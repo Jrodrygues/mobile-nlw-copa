@@ -62,7 +62,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/gi-carnaval/backend-nlw-copa.git
+$ git clone https://github.com/Jrodrygues/mobile-nlw-copa.git
 # Acesse o projeto
 $ cd backend-nlw-copa
 # Instale as dependências
