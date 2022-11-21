@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/gi-carnaval/frontend-nlw-copa/blob/master/src/assets/logo.svg" alt="NLW COPA" />
+  <img src="https://github.com/Jrodrygues/front-end-nlw-copa/blob/main/src/assets/logo.svg" alt="NLW COPA" />
 
   &#xa0;
 
@@ -22,7 +22,7 @@
   <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
   <!--<a href="#memo-licença">Licença</a> &#xa0; | &#xa0;-->
-  <a href="https://github.com/gi-carnaval" target="_blank">Author</a>
+  <a href="https://github.com/Jrodrygues" target="_blank">Author</a>
 </p>
 
 <br>
@@ -62,7 +62,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/Jrodrygues/mobile-nlw-copa.git
+$ git clone https://github.com/Jrodrygues/front-end-nlw-copa.git
 # Acesse o projeto
 $ cd backend-nlw-copa
 # Instale as dependências
